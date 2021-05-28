@@ -1,7 +1,7 @@
 package shared
 
 import (
-	"github.com/yosssi/boltstore/shared/protobuf"
+	"github.com/bmartel/boltstore/shared/protobuf"
 	"testing"
 	"time"
 

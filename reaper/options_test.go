@@ -3,7 +3,7 @@ package reaper
 import (
 	"testing"
 
-	"github.com/yosssi/boltstore/shared"
+	"github.com/bmartel/boltstore/shared"
 )
 
 func TestOptions_setDefault(t *testing.T) {
